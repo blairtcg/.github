@@ -1,5 +1,3 @@
-# Blair
-
 > [!CAUTION]
 > Blair is currently down, Blair is expected to be back around March.
 
