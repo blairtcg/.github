@@ -13,6 +13,7 @@ for your collecting power and progression not card battling slop.
 | **Blairdocs** | Blair's official documentation and main page  |
 | **Mjolnir**   | Blair's experimental built-in moderation tool |
 | **Revelio**   | Blair's built-in alt account detector         |
+| **Velo**      | Blair's fast, minimal and colorful logger     |
 
 ---
 
