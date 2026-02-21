@@ -1,9 +1,9 @@
 > [!CAUTION]
-> Blair is currently down, Blair is expected to be back around March.
+> Blair is currently down, Blair is expected to be back around April.
 
-Fully free to play Anime TCG Discord bot with a skill system
+Fully free to play Anime TCG Discord bot with a skill system (?)
 
-for your collecting power and progression not card battling slop.
+for your collecting power!! and progression not card battling slop.
 
 ## What we’re building
 
