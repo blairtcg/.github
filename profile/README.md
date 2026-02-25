@@ -7,13 +7,13 @@ for your collecting power!! and progression not card battling slop.
 
 ## What we’re building
 
-| Project       | Description                                   |
-| ------------- | --------------------------------------------- |
-| **Blair-go**  | Blair's entire tech stack now written in Go   |
-| **Blairdocs** | Blair's official documentation and main page  |
-| **Mjolnir**   | Blair's experimental built-in moderation tool |
-| **Revelio**   | Blair's built-in alt account detector         |
-| **Velo**      | Blair's fast, minimal and colorful logger     |
+| Project                                            | Description                                   |
+| -------------------------------------------------- | --------------------------------------------- |
+| **Blair-go**                                       | Blair's entire tech stack now written in Go   |
+| [**Blairdocs**](https://github.com/blairtcg/blair) | Blair's official documentation and main page  |
+| **Mjolnir**                                        | Blair's experimental built-in moderation tool |
+| **Revelio**                                        | Blair's built-in alt account detector         |
+| [**Velo**](https://github.com/blairtcg/velo)       | Blair's fast, minimal and colorful logger     |
 
 ---
 
