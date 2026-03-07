@@ -1,5 +1,3 @@
-# blair
-
 Blair's source code is private but we try to open source the custom libraries and tools we use.
 
 ## What we’re building
