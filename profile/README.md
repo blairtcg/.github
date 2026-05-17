@@ -1,5 +1,5 @@
 > [!CAUTION]
-> Blair is currently down, Blair is expected to be on testing phase around April.
+> Blair is currently down, Blair is expected to be on testing phase around June.
 
 > Blair's source code is private but we try to open source the custom libraries and tools we use.
 
