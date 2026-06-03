@@ -5,13 +5,12 @@
 
 ## What we’re building
 
-| Project                                            | Description                                  |
-| -------------------------------------------------- | ---------------------------------------------|
-| [**Blairdocs**](https://github.com/blairtcg/blair) | Official documentation and landing page      |
-| [**Sumi**](https://github.com/blairtcg/sumi)       | Our image renderer service written in Rust   |
-| [**Shizuku**](https://github.com/blairtcg/shizuku) | Our drop pool data: character, series, etc   |
-| [**Velo**](https://github.com/blairtcg/velo)       | Fast, colorful and levelled logger for Go    |
-| [**Protego**](https://github.com/blairtcg/protego) | Lightweight, scalable circuit breaker for Go |
+| Project                                             | Description                                  |
+| --------------------------------------------------- | ---------------------------------------------|
+| [**Blairdocs**](https://github.com/blairtcg/blair/) | Official documentation and landing page      |
+| [**Sumi**](https://github.com/blairtcg/sumi/)       | Our image renderer service written in Rust   |
+| [**Tsukai**](https://github.com/blairtcg/tsukai/)   | Go TUI for built in benches/panel for Sumi   |
+| [**Protego**](https://github.com/blairtcg/protego/) | Lightweight, scalable circuit breaker for Go |
 
 ---
 
